@@ -1,4 +1,4 @@
-# Baber Page
+# Barber Page
 
 <img src="./animation.gif">
-<a href="https://andersonbones.github.io/Baber-page/">DEMO 👽</a>
+<a href="https://andersonbones.github.io/Barber-page/">DEMO 👽</a>
